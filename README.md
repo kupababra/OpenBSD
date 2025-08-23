@@ -1,4 +1,4 @@
-== OpenBSD Home Server t400 Tutorial ===
+== OpenBSD Home Server t400 Tutorial alpha 0.1 fast version===
 Autor: retrobofh bofh@retro-technology.pl / 23.08.2025
 
 Opis:
