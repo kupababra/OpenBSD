@@ -1,0 +1,4 @@
+Dodaj do crontab: crontab -e 
+0       3       *       *       *       acme-client twój.ddnsgeek.com && rcctl reload httpd
+0       3       *       *       *       /usr/local/sbin/log_pf_abuse.sh
+Dodajemy te dwie linie do crona aby ddns sie odswieżał o 3 w nocy i program abuser logował z pf:)
