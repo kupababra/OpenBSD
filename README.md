@@ -85,7 +85,7 @@ http://192.168.1.100
 
 ## 3. HTTPS z ACME
 
-1. Zainstaluj `acme-client`:
+1. Zainstaluj `acme-client` - możliwe że jest od razu w OpenBSD:
 
 ```sh
 doas pkg_add acme-client
